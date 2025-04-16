@@ -2,51 +2,51 @@
     {
         "name": "Adhesive Bandages",
         "id": "adhba041625",
-        "image": "/src/images/products/adhesive-bandages.jpg"
+        "image": "/images/products/adhesive-bandages.jpg"
     },
     {
         "name": "Alcohol",
         "id": "alcoh041625",
-        "image": "/src/images/products/alcohol.webp"
+        "image": "/images/products/alcohol.webp"
     },
     {
         "name": "Blood Pressure Monitor",
         "id": "blopr041625",
-        "image": "/src/images/products/blood-pressure-monitor.jpg"
+        "image": "/images/products/blood-pressure-monitor.jpg"
     },
     {
         "name": "Disposable Syringes",
         "id": "dissy041625",
-        "image": "/src/images/products/disposable-syringes.webp"
+        "image": "/images/products/disposable-syringes.webp"
     },
     {
         "name": "Ibuprofen",
         "id": "ibupr041625",
-        "image": "/src/images/products/ibuprofen.jpg"
+        "image": "/images/products/ibuprofen.jpg"
     },
     {
         "name": "Latex Gloves",
         "id": "latgl041625",
-        "image": "/src/images/products/latex-gloves.jpg"
+        "image": "/images/products/latex-gloves.jpg"
     },
     {
         "name": "Sterile Gauze",
         "id": "stega041625",
-        "image": "/src/images/products/sterile-gauze.jpg"
+        "image": "/images/products/sterile-gauze.jpg"
     },
     {
         "name": "Surgical Masks",
         "id": "surma041625",
-        "image": "/src/images/products/surgical-masks.jpg"
+        "image": "/images/products/surgical-masks.jpg"
     },
     {
         "name": "Thermometer",
         "id": "therm041625",
-        "image": "/src/images/products/thermometer.jpeg"
+        "image": "/images/products/thermometer.jpeg"
     },
     {
         "name": "Wound Dressing",
         "id": "woudr041625",
-        "image": "/src/images/products/wound-dressing.jpg"
+        "image": "/images/products/wound-dressing.jpg"
     }
 ]

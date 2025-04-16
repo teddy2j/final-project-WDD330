@@ -3,90 +3,90 @@
         "category": "general",
         "name": "Petr Cech",
         "id": "pc041625",
-        "image": "/src/images/doctors/petr.jpeg"
+        "image": "/images/doctors/petr.jpeg"
     },
     {
         "category": "pediatry",
         "name": "Branislav Ivanovic",
         "id": "bi041625",
-        "image": "/src/images/doctors/branislav.jpeg"
+        "image": "/images/doctors/branislav.jpeg"
     },
     {
         "category": "general",
         "name": "Eden Hazard",
         "id": "eh17",
-        "image": "/src/images/doctors/eden.jpeg"
+        "image": "/images/doctors/eden.jpeg"
     },
     {
         "category": "pediatry",
         "name": "Eva Carneiro",
         "id": "ec041625",
-        "image": "/src/images/doctors/eva.jpeg"
+        "image": "/images/doctors/eva.jpeg"
     },
     {
         "category": "psychology",
         "name": "Fernando Torres",
         "id": "ft041625",
-        "image": "/src/images/doctors/fernando.jpeg"
+        "image": "/images/doctors/fernando.jpeg"
     },
     {
         "category": "pediatry",
         "name": "Frank Lampard",
         "id": "fl041625",
-        "image": "/src/images/doctors/frank.jpeg"
+        "image": "/images/doctors/frank.jpeg"
     },
     {
         "category": "psychology",
         "name": "Gary Cahill",
         "id": "gc041625",
-        "image": "/src/images/doctors/gary.jpeg"
+        "image": "/images/doctors/gary.jpeg"
     },
     {
         "category": "general",
         "name": "John Terry",
         "id": "jt041625",
-        "image": "/src/images/doctors/john.jpeg"
+        "image": "/images/doctors/john.jpeg"
     },
     {
         "category": "psychology",
         "name": "Mikel Obi",
         "id": "mo041625",
-        "image": "/src/images/doctors/mikel.jpeg"
+        "image": "/images/doctors/mikel.jpeg"
     },
     {
         "category": "pediatry",
         "name": "Ashley Cole",
         "id": "ac041625",
-        "image": "/src/images/doctors/ashley.jpeg"
+        "image": "/images/doctors/ashley.jpeg"
     },
     {
         "category": "general",
         "name": "Tommy Abraham",
         "id": "ta041625",
-        "image": "/src/images/doctors/tommy.jpeg"
+        "image": "/images/doctors/tommy.jpeg"
     },
     {
         "category": "psychology",
         "name": "William Bohorquez",
         "id": "wb041625",
-        "image": "/src/images/doctors/william.jpeg"
+        "image": "/images/doctors/william.jpeg"
     },
     {
         "category": "psychology",
         "name": "Cesar Azpilicueta",
         "id": "ca041625",
-        "image": "/src/images/doctors/branislav.jpeg"
+        "image": "/images/doctors/branislav.jpeg"
     },
     {
         "category": "general",
         "name": "Juan Mata",
         "id": "jm041625",
-        "image": "/src/images/doctors/william.jpeg"
+        "image": "/images/doctors/william.jpeg"
     },
     {
         "category": "pediatry",
         "name": "Diego Costa",
         "id": "dc041625",
-        "image": "/src/images/doctors/petr.jpeg"
+        "image": "/images/doctors/petr.jpeg"
     }
 ]

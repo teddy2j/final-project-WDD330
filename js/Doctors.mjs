@@ -5,7 +5,7 @@ const parentListElement = document.getElementById("parent-list");
 function doctorListCardTemplate(doctor) {
     return `
     <li class='doctor-list-card'>
-        <a href='/src/doctor-pages/index.html?id=${doctor.id}'>
+        <a href='/doctor-pages/index.html?id=${doctor.id}'>
             <img src='${doctor.image}' alt='Image of ${doctor.name}' />
             <h2 class='card__brand'>${doctor.name}</h2>
         </a>
@@ -14,7 +14,7 @@ function doctorListCardTemplate(doctor) {
 }
 
 async function getListByCategory(category) {
-    const response = await fetch("/src/json/doctors.json");
+    const response = await fetch("/json/doctors.json");
     const data = await response.json();
     return data.filter(doc => doc.category === category);
 }
@@ -36,7 +36,7 @@ function doctorsDetailsTemplate(doctor) {
 }
 
 async function getDoctorById(id) {
-    const response = await fetch("/src/json/doctors.json");
+    const response = await fetch("/json/doctors.json");
     const data = await response.json();
     return data.find(doc => doc.id === id);
 }

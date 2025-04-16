@@ -4,7 +4,7 @@ const parentListElement = document.getElementById("parent-list");
 function productListCardTemplate(product) {
     return `
     <li class='product-list-card'>
-        <a href='/src/product-pages/index.html?id=${product.id}'>
+        <a href='/product-pages/index.html?id=${product.id}'>
             <img src='${product.image}' alt='Image of ${product.name}' />
             <h2 class='card__brand'>${product.name}</h2>
         </a>
@@ -13,7 +13,7 @@ function productListCardTemplate(product) {
 }
 
 async function getList() {
-    const response = await fetch("/src/json/products.json");
+    const response = await fetch("/json/products.json");
     const data = await response.json();
     return data;
 }
@@ -35,7 +35,7 @@ function productDetailsTemplate(product) {
 }
 
 async function getProductById(id) {
-    const response = await fetch("/src/json/products.json");
+    const response = await fetch("/json/products.json");
     const data = await response.json();
     return data.find(product => product.id === id);
 }
