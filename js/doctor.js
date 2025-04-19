@@ -1,4 +1,4 @@
-import Doctors from "./Doctors.mjs";
+import Doctors from "./doctors.mjs";
 import { initGapi, signInWithGoogle, createCalendarEvent } from "./externalApi.mjs";
 
 const doctors = new Doctors();
