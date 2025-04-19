@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Online Medical Center | Home</title>
   <link rel="stylesheet" href="css/style.css" />
+  <script src="js/main.js" type="module"></script>
 </head>
 
 <body>
@@ -17,11 +18,10 @@
       <h1>ONLINE MEDICAL CENTER</h1>
     </div>
     <div class="menu">
-      <p>Sign-Up</p>
+      <a href="sign-up/index.html">Sign-Up</a>
       <a href="catalog/index.html">Shop</a>
       <a href="doctor-categories/index.html">Appointment</a>
     </div>
-
     <div class="cart">
       <a href="cart/index.html">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -31,14 +31,16 @@
       </a>
     </div>
   </header>
+
   <main>
     <div class="description">
       <h2>Online Consultation</h2>
-      <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint nihil, possimus minima doloribus excepturi
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint nihil, possimus minima doloribus excepturi
         tenetur sequi. Libero, iusto! Molestias explicabo, neque architecto porro alias doloremque facilis veritatis
-        enim eos nihil!</P>
+        enim eos nihil!</p>
       <img src="images/online-consultation.png" alt="patient getting online attention">
     </div>
+
     <div class="appointment">
       <h2>Select Appointment</h2>
       <div class="specialities">
@@ -56,28 +58,16 @@
         </div>
       </div>
     </div>
+
     <div class="featured">
       <h2>Featured Products</h2>
-      <div class="featured-products">
-        <div class="featured-product">
-          <img src="images/test.png" alt="">
-          <p>product title 1</p>
-          <p>$price</p>
-        </div>
-        <div class="featured-product">
-          <img src="images/test.png" alt="">
-          <p>product title 1</p>
-          <p>$price</p>
-        </div>
-        <div class="featured-product">
-          <img src="images/test.png" alt="">
-          <p>product title 1</p>
-          <p>$price</p>
-        </div>
-      </div>
+      <div class="featured-products"></div>
     </div>
+
+    <div id="map" style="height: 300px; width: 100%; margin: 2rem 0;"></div>
   </main>
-  <footer>aaaaaaaaa</footer>
+
+  <footer>&copy; 2025 Online Medical Center. Connecting You to Better Health.</footer>
 </body>
 
 </html>

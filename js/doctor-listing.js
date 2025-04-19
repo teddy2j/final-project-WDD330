@@ -1,4 +1,3 @@
-import Doctors from "./Doctors.mjs";
-
+import Doctors from "./doctors.mjs";
 const doctors = new Doctors();
-doctors.renderDoctorsByCategory();
+doctors.renderDoctorsByCategory();  

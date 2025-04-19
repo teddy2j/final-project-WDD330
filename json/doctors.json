@@ -3,90 +3,165 @@
         "category": "general",
         "name": "Petr Cech",
         "id": "pc041625",
-        "image": "../images/doctors/petr.jpeg"
+        "image": "../images/doctors/petr.jpeg",
+        "birthDate": "1990-04-10",
+        "consultations": 43,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "pediatry",
         "name": "Branislav Ivanovic",
         "id": "bi041625",
-        "image": "../images/doctors/branislav.jpeg"
+        "image": "../images/doctors/branislav.jpeg",
+        "birthDate": "1989-06-20",
+        "consultations": 23,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "general",
         "name": "Eden Hazard",
         "id": "eh17",
-        "image": "../images/doctors/eden.jpeg"
+        "image": "../images/doctors/eden.jpeg",
+        "birthDate": "1991-02-02",
+        "consultations": 31,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "pediatry",
         "name": "Eva Carneiro",
         "id": "ec041625",
-        "image": "../images/doctors/eva.jpeg"
+        "image": "../images/doctors/eva.jpeg",
+        "birthDate": "1988-04-12",
+        "consultations": 54,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "psychology",
         "name": "Fernando Torres",
         "id": "ft041625",
-        "image": "../images/doctors/fernando.jpeg"
+        "image": "../images/doctors/fernando.jpeg",
+        "birthDate": "1987-10-21",
+        "consultations": 22,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "pediatry",
         "name": "Frank Lampard",
         "id": "fl041625",
-        "image": "../images/doctors/frank.jpeg"
+        "image": "../images/doctors/frank.jpeg",
+        "birthDate": "1978-03-17",
+        "consultations": 26,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "psychology",
         "name": "Gary Cahill",
         "id": "gc041625",
-        "image": "../images/doctors/gary.jpeg"
+        "image": "../images/doctors/gary.jpeg",
+        "birthDate": "1988-02-15",
+        "consultations": 41,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "general",
         "name": "John Terry",
         "id": "jt041625",
-        "image": "../images/doctors/john.jpeg"
+        "image": "../images/doctors/john.jpeg",
+        "birthDate": "1982-09-13",
+        "consultations": 56,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "psychology",
         "name": "Mikel Obi",
         "id": "mo041625",
-        "image": "../images/doctors/mikel.jpeg"
+        "image": "../images/doctors/mikel.jpeg",
+        "birthDate": "1988-05-05",
+        "consultations": 44,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "pediatry",
         "name": "Ashley Cole",
         "id": "ac041625",
-        "image": "../images/doctors/ashley.jpeg"
+        "image": "../images/doctors/ashley.jpeg",
+        "birthDate": "1987-04-10",
+        "consultations": 43,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "general",
         "name": "Tommy Abraham",
         "id": "ta041625",
-        "image": "../images/doctors/tommy.jpeg"
+        "image": "../images/doctors/tommy.jpeg",
+        "birthDate": "1992-11-20",
+        "consultations": 39,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "psychology",
         "name": "William Bohorquez",
         "id": "wb041625",
-        "image": "../images/doctors/william.jpeg"
+        "image": "../images/doctors/william.jpeg",
+        "birthDate": "1990-06-10",
+        "consultations": 31,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "psychology",
         "name": "Cesar Azpilicueta",
         "id": "ca041625",
-        "image": "../images/doctors/branislav.jpeg"
+        "image": "../images/doctors/branislav.jpeg",
+        "birthDate": "1991-09-03",
+        "consultations": 59,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "general",
         "name": "Juan Mata",
         "id": "jm041625",
-        "image": "../images/doctors/william.jpeg"
+        "image": "../images/doctors/william.jpeg",
+        "birthDate": "1990-06-16",
+        "consultations": 48,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     },
     {
         "category": "pediatry",
         "name": "Diego Costa",
         "id": "dc041625",
-        "image": "../images/doctors/petr.jpeg"
+        "image": "../images/doctors/petr.jpeg",
+        "birthDate": "1988-10-20",
+        "consultations": 21,
+        "rating": 4.2,
+        "phone": 123456789,
+        "email": "abc@kmail.com"
     }
 ]

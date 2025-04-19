@@ -1,0 +1,58 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Online Medical Center | Sign Up</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <script src="../js/sign-up.js" type="module"></script>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="../index.html">
+                <img src="../images/logo.png" alt="stethoscope heart for logo" />
+            </a>
+            <h1>ONLINE MEDICAL CENTER</h1>
+        </div>
+        <div class="menu">
+            <a href="../sign-up/index.html">Sign-Up</a>
+            <a href="../catalog/index.html">Shop</a>
+            <a href="../doctor-categories/index.html">Appointment</a>
+        </div>
+
+        <div class="cart">
+            <a href="../cart/index.html">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                    <path
+                        d="M20 20h60l-5 20H30l-5-20zm0 25h55l-5 20H25l-5-20zm10 25a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm40 0a5 5 0 1 0 0 10 5 5 0 0 0 0-10z" />
+                </svg>
+            </a>
+        </div>
+    </header>
+    <section class="divider checkout">
+        <h2>Sign Up Information</h2>
+        <section class="checkout-form">
+            <form name="sign-up">
+                <fieldset>
+                    <legend>Name, address, e-mail </legend>
+                    <label for="name">Name</label>
+                    <input type="text" name="name" id="name" required />
+                    <label for="address">Address</label>
+                    <input type="text" name="address" id="address" required />
+                    <label for="email">E-Mail</label>
+                    <input type="email" name="email" id="email" required />
+                    <label for="password">Password</label>
+                    <input type="password" name="password" id="password" required />
+                </fieldset>
+                <button type="submit" id="checkoutSubmit">Sign Up</button>
+            </form>
+        </section>
+    </section>
+
+</body>
+
+</html>

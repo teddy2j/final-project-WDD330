@@ -4,13 +4,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Doctor Profile</title>
     <script src="../js/doctor.js" type="module"></script>
-
+    <link rel="stylesheet" href="../css/style.css" />
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="https://apis.google.com/js/api.js"></script>
 </head>
 
 <body>
-    <section id="doctor-details"></section>
+    <header>
+        <div class="logo">
+            <a href="../index.html">
+                <img src="../images/logo.png" alt="stethoscope heart for logo" />
+            </a>
+            <h1>ONLINE MEDICAL CENTER</h1>
+        </div>
+        <div class="menu">
+            <a href="../sign-up/index.html">Sign-Up</a>
+            <a href="../catalog/index.html">Shop</a>
+            <a href="../doctor-categories/index.html">Appointment</a>
+        </div>
+
+        <div class="cart">
+            <a href="cart/index.html">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                    <path
+                        d="M20 20h60l-5 20H30l-5-20zm0 25h55l-5 20H25l-5-20zm10 25a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm40 0a5 5 0 1 0 0 10 5 5 0 0 0 0-10z" />
+                </svg>
+            </a>
+        </div>
+    </header>
+
+
+    <section id="doctor-details" class="doctor-profile-container"></section>
+
 </body>
 
 </html>

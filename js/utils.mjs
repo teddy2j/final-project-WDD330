@@ -46,3 +46,19 @@ export function renderWithTemplate(template, parentElement, data, callback) {
   }
 }
 
+export function alertMessage(message, scroll = true, duration = 3000) {
+  const alert = document.createElement("div");
+  alert.classList.add("alert");
+  alert.innerHTML = `<p>${message}</p><span>X</span>`;
+
+  alert.addEventListener("click", function (e) {
+    if (e.target.tagName == "SPAN") {
+      main.removeChild(this);
+    }
+  });
+
+  const main = document.querySelector("body"); // or 'main' if you want it in a specific section
+  main.prepend(alert);
+
+  if (scroll) window.scrollTo(0, 0);
+}
